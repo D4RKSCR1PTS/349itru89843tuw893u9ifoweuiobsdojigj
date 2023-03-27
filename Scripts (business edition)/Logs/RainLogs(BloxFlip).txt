@@ -1,0 +1,40 @@
+Successfully joined rain!
+Rain amount: 500 R$
+Expiration: 2 minutes
+Host: mamatoes28
+Timestamp: 03/22/2023 02:02:09
+Successfully joined rain!
+Rain amount: 9,999 R$
+Expiration: 2 minutes
+Host: 0xWeiss
+Timestamp: 03/22/2023 04:25:49
+Successfully joined rain!
+Rain amount: 9,999 R$
+Expiration: 2 minutes
+Host: 0xWeiss
+Timestamp: 03/23/2023 03:03:41
+Successfully joined rain!
+Rain amount: 9,999 R$
+Expiration: 2 minutes
+Host: 0xWeiss
+Timestamp: 03/23/2023 03:07:04
+Successfully joined rain!
+Rain amount: 1,500 R$
+Expiration: 2 minutes
+Host: OMLES123
+Timestamp: 03/26/2023 02:02:56
+Successfully joined rain!
+Rain amount: 500 R$
+Expiration: 2 minutes
+Host: mamatoes28
+Timestamp: 03/26/2023 21:57:49
+Successfully joined rain!
+Rain amount: 500 R$
+Expiration: 2 minutes
+Host: mamatoes28
+Timestamp: 03/26/2023 22:00:10
+Successfully joined rain!
+Rain amount: 500 R$
+Expiration: 2 minutes
+Host: mamatoes28
+Timestamp: 03/26/2023 22:04:17
